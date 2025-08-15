@@ -1,0 +1,77 @@
+{
+  "month": "June",
+  "messages": [
+    { "id": "msg1", "date": "2025-06-01 07:50", "sender": "Keily Summers", "role": "member", "text": "Morning! Noticed my back felt tight after yesterday’s longer walk." },
+    { "id": "msg2", "date": "2025-06-01 07:53", "sender": "Advik", "role": "fitness_expert", "text": "Let’s do extra hamstring stretches before and after walks this week." },
+    { "id": "msg3", "date": "2025-06-01 08:00", "sender": "Carla", "role": "nutritionist", "text": "Also, increase magnesium-rich foods for muscle relaxation." },
+    { "id": "msg4", "date": "2025-06-01 08:05", "sender": "Keily Summers", "role": "member", "text": "Got spinach and almonds, will add to meals." },
+
+    { "id": "msg5", "date": "2025-06-02 07:45", "sender": "Ruby", "role": "coach", "text": "This week’s focus: stamina build + hydration." },
+    { "id": "msg6", "date": "2025-06-02 07:47", "sender": "Keily Summers", "role": "member", "text": "Got it. Will aim for 9k steps daily." },
+    { "id": "msg7", "date": "2025-06-02 20:00", "sender": "Neel", "role": "analyst", "text": "Sleep avg last week: 6h 50m — slight drop." },
+    { "id": "msg8", "date": "2025-06-02 20:03", "sender": "Ruby", "role": "coach", "text": "Keily, let’s aim for 7h+ again by limiting late-night screen time." },
+    { "id": "msg9", "date": "2025-06-02 20:05", "sender": "Keily Summers", "role": "member", "text": "Will switch to reading before bed." },
+
+    { "id": "msg10", "date": "2025-06-03 08:10", "sender": "Rachel", "role": "travel_coordinator", "text": "June 10–14 Tokyo trip confirmed." },
+    { "id": "msg11", "date": "2025-06-03 08:12", "sender": "Keily Summers", "role": "member", "text": "Excited! Will need back support for long flight." },
+    { "id": "msg12", "date": "2025-06-03 08:15", "sender": "Rachel", "role": "travel_coordinator", "text": "Adding lumbar pillow to travel kit." },
+
+    { "id": "msg13", "date": "2025-06-04 07:40", "sender": "Advik", "role": "fitness_expert", "text": "Jog target today: 14 min at steady pace." },
+    { "id": "msg14", "date": "2025-06-04 07:43", "sender": "Keily Summers", "role": "member", "text": "Done 13.5 min — nearly there!" },
+    { "id": "msg15", "date": "2025-06-04 07:46", "sender": "Advik", "role": "fitness_expert", "text": "Great, we’ll get to 15 min next week." },
+
+    { "id": "msg16", "date": "2025-06-05 08:00", "sender": "Carla", "role": "nutritionist", "text": "Hydration tip: cucumber + mint infused water." },
+    { "id": "msg17", "date": "2025-06-05 08:03", "sender": "Keily Summers", "role": "member", "text": "Will prepare a jug today." },
+
+    { "id": "msg18", "date": "2025-06-06 07:50", "sender": "Neel", "role": "analyst", "text": "Allergy symptoms: 0 sneezes avg/day this week." },
+    { "id": "msg19", "date": "2025-06-06 07:52", "sender": "Ruby", "role": "coach", "text": "Keily, your dust control routine is working well." },
+    { "id": "msg20", "date": "2025-06-06 07:55", "sender": "Keily Summers", "role": "member", "text": "Feels great to have a clear nose!" },
+
+    { "id": "msg21", "date": "2025-06-07 08:15", "sender": "Rachel", "role": "travel_coordinator", "text": "Tokyo weather mid-June: mild but humid." },
+    { "id": "msg22", "date": "2025-06-07 08:17", "sender": "Carla", "role": "nutritionist", "text": "Pack electrolyte sachets for humid days." },
+    { "id": "msg23", "date": "2025-06-07 08:19", "sender": "Keily Summers", "role": "member", "text": "Will do." },
+
+    { "id": "msg24", "date": "2025-06-09 08:05", "sender": "Advik", "role": "fitness_expert", "text": "Pre-trip stretch set shared in app — do it before flight." },
+    { "id": "msg25", "date": "2025-06-09 08:08", "sender": "Keily Summers", "role": "member", "text": "Downloaded and ready." },
+
+    { "id": "msg26", "date": "2025-06-10 06:20", "sender": "Rachel", "role": "travel_coordinator", "text": "Travel day! Kit packed with pillow, electrolytes." },
+    { "id": "msg27", "date": "2025-06-10 06:22", "sender": "Keily Summers", "role": "member", "text": "Boarding soon." },
+    { "id": "msg28", "date": "2025-06-10 08:00", "sender": "Neel", "role": "analyst", "text": "Logging step goals lower for flight day." },
+
+    { "id": "msg29", "date": "2025-06-11 08:00", "sender": "Keily Summers", "role": "member", "text": "Walked around Shinjuku yesterday evening — no back pain!" },
+    { "id": "msg30", "date": "2025-06-11 08:03", "sender": "Ruby", "role": "coach", "text": "Nice! Keep up your nightly stretches." },
+
+    { "id": "msg31", "date": "2025-06-13 07:50", "sender": "Carla", "role": "nutritionist", "text": "Try seasonal melon for breakfast, very hydrating." },
+    { "id": "msg32", "date": "2025-06-13 07:53", "sender": "Keily Summers", "role": "member", "text": "Had it this morning, loved it." },
+
+    { "id": "msg33", "date": "2025-06-14 21:00", "sender": "Rachel", "role": "travel_coordinator", "text": "Back home safe?" },
+    { "id": "msg34", "date": "2025-06-14 21:03", "sender": "Keily Summers", "role": "member", "text": "Yes, landed an hour ago." },
+
+    { "id": "msg35", "date": "2025-06-15 08:05", "sender": "Neel", "role": "analyst", "text": "Trip step avg: 8.3k/day — solid despite sightseeing pace." },
+    { "id": "msg36", "date": "2025-06-15 08:07", "sender": "Ruby", "role": "coach", "text": "Keily, your stamina’s improving nicely." },
+
+    { "id": "msg37", "date": "2025-06-17 07:45", "sender": "Advik", "role": "fitness_expert", "text": "Let’s push jog to 15 min today." },
+    { "id": "msg38", "date": "2025-06-17 07:48", "sender": "Keily Summers", "role": "member", "text": "Hit 15 min without stopping 🎉" },
+
+    { "id": "msg39", "date": "2025-06-20 08:20", "sender": "Carla", "role": "nutritionist", "text": "Add chia seeds to morning smoothie for hydration boost." },
+    { "id": "msg40", "date": "2025-06-20 08:23", "sender": "Keily Summers", "role": "member", "text": "Already have them in the pantry." },
+
+    { "id": "msg41", "date": "2025-06-24 08:00", "sender": "Neel", "role": "analyst", "text": "June water intake avg: 2.6L/day — target met." },
+    { "id": "msg42", "date": "2025-06-24 08:03", "sender": "Ruby", "role": "coach", "text": "Well done, Keily." },
+
+    { "id": "msg43", "date": "2025-06-28 08:15", "sender": "Advik", "role": "fitness_expert", "text": "Weekend challenge: 5 min plank cumulative." },
+    { "id": "msg44", "date": "2025-06-28 08:17", "sender": "Keily Summers", "role": "member", "text": "Managed 4 min total, close!" },
+    { "id": "msg45", "date": "2025-06-28 08:20", "sender": "Advik", "role": "fitness_expert", "text": "Still great progress." }
+  ],
+  "events": [
+    {
+      "id": "evt9",
+      "date": "2025-06-10",
+      "type": "travel",
+      "title": "Tokyo Leisure Trip",
+      "description": "Maintained back care and hydration during travel.",
+      "reason": "Stamina building & allergy-safe leisure travel.",
+      "linked_messages": ["msg10", "msg11", "msg12", "msg26", "msg27", "msg28"]
+    }
+  ]
+}

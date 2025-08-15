@@ -1,0 +1,122 @@
+{
+  "messages": [
+    { "id": "msg1", "date": "2025-08-01 07:45", "sender": "Ruby", "role": "coach", "text": "Morning Keily 🌞 How’s your energy after Dubai trip recovery week?" },
+    { "id": "msg2", "date": "2025-08-01 07:48", "sender": "Keily Summers", "role": "member", "text": "Pretty good! Feeling less dehydrated now." },
+    { "id": "msg3", "date": "2025-08-01 07:50", "sender": "Carla", "role": "nutritionist", "text": "Great. Let’s maintain 2.8–3L water daily for August." },
+    { "id": "msg4", "date": "2025-08-01 07:53", "sender": "Neel", "role": "analyst", "text": "July hydration avg: 2.4L/day. We’re close to target." },
+    { "id": "msg5", "date": "2025-08-01 07:55", "sender": "Ruby", "role": "coach", "text": "Nice trend. August we aim for 100% hydration days." },
+
+    { "id": "msg6", "date": "2025-08-02 08:00", "sender": "Advik", "role": "fitness_expert", "text": "Keily, ready to increase plank hold to 50 sec?" },
+    { "id": "msg7", "date": "2025-08-02 08:02", "sender": "Keily Summers", "role": "member", "text": "I’ll try — 45 sec was my max last week." },
+    { "id": "msg8", "date": "2025-08-02 08:05", "sender": "Advik", "role": "fitness_expert", "text": "We’ll do 50 sec twice this week to build core strength." },
+
+    { "id": "msg9", "date": "2025-08-03 07:50", "sender": "Carla", "role": "nutritionist", "text": "Add banana + almond smoothie for breakfast today." },
+    { "id": "msg10", "date": "2025-08-03 07:53", "sender": "Keily Summers", "role": "member", "text": "Just made it — filling and tasty!" },
+    { "id": "msg11", "date": "2025-08-03 07:55", "sender": "Ruby", "role": "coach", "text": "That’s your pre-workout fuel before plank challenge." },
+
+    { "id": "msg12", "date": "2025-08-04 08:00", "sender": "Neel", "role": "analyst", "text": "Posture tracker data: 12 slouch alerts/day avg in July. Let’s aim for 9/day this month." },
+    { "id": "msg13", "date": "2025-08-04 08:03", "sender": "Keily Summers", "role": "member", "text": "Got it — will keep an eye." },
+    { "id": "msg14", "date": "2025-08-04 08:05", "sender": "Advik", "role": "fitness_expert", "text": "Adding seated back stretch reminder every 2 hrs." },
+
+    { "id": "msg15", "date": "2025-08-05 07:40", "sender": "Rachel", "role": "travel_coordinator", "text": "Keily, India monsoon trip dates confirmed?" },
+    { "id": "msg16", "date": "2025-08-05 07:42", "sender": "Keily Summers", "role": "member", "text": "Yes — August 17–22 to Delhi." },
+    { "id": "msg17", "date": "2025-08-05 07:45", "sender": "Rachel", "role": "travel_coordinator", "text": "I’ll prep dust masks, allergy meds, and ginger tea sachets for flight." },
+
+    { "id": "msg18", "date": "2025-08-06 07:50", "sender": "Carla", "role": "nutritionist", "text": "Add turmeric latte at night this week for immunity boost." },
+    { "id": "msg19", "date": "2025-08-06 07:53", "sender": "Keily Summers", "role": "member", "text": "Sounds cozy — will try tonight." },
+
+    { "id": "msg20", "date": "2025-08-07 08:00", "sender": "Ruby", "role": "coach", "text": "How’s back pain past 3 days?" },
+    { "id": "msg21", "date": "2025-08-07 08:03", "sender": "Keily Summers", "role": "member", "text": "Barely noticeable, only after long site days." },
+    { "id": "msg22", "date": "2025-08-07 08:05", "sender": "Advik", "role": "fitness_expert", "text": "That’s a win — core work is paying off." },
+
+    { "id": "msg23", "date": "2025-08-08 07:45", "sender": "Rachel", "role": "travel_coordinator", "text": "Weather in Delhi forecast: high humidity + moderate dust." },
+    { "id": "msg24", "date": "2025-08-08 07:48", "sender": "Ruby", "role": "coach", "text": "Keily, carry portable humidifier for hotel." },
+    { "id": "msg25", "date": "2025-08-08 07:50", "sender": "Keily Summers", "role": "member", "text": "Adding it to suitcase list." },
+
+    { "id": "msg26", "date": "2025-08-09 07:40", "sender": "Carla", "role": "nutritionist", "text": "Prep snack pack for flight: roasted chickpeas, almonds, dried apricots." },
+    { "id": "msg27", "date": "2025-08-09 07:42", "sender": "Keily Summers", "role": "member", "text": "Will shop this weekend." },
+
+    { "id": "msg28", "date": "2025-08-10 07:55", "sender": "Neel", "role": "analyst", "text": "Sleep avg this week: 7h 25m — steady." },
+    { "id": "msg29", "date": "2025-08-10 07:58", "sender": "Ruby", "role": "coach", "text": "Perfect — keep it above 7h through the trip." },
+
+    { "id": "msg30", "date": "2025-08-11 07:50", "sender": "Advik", "role": "fitness_expert", "text": "Last core strength test before travel — 50 sec plank goal today." },
+    { "id": "msg31", "date": "2025-08-11 07:53", "sender": "Keily Summers", "role": "member", "text": "Done! 52 sec 🎉" },
+    { "id": "msg32", "date": "2025-08-11 07:55", "sender": "Ruby", "role": "coach", "text": "Amazing — we’ll maintain during trip." },
+
+    { "id": "msg33", "date": "2025-08-12 07:40", "sender": "Rachel", "role": "travel_coordinator", "text": "Flight check-in reminders set for Aug 16." },
+    { "id": "msg34", "date": "2025-08-12 07:42", "sender": "Keily Summers", "role": "member", "text": "Thanks — I’ll pack two days ahead." },
+
+    { "id": "msg35", "date": "2025-08-13 08:00", "sender": "Carla", "role": "nutritionist", "text": "Increase vitamin C intake from today till trip." },
+    { "id": "msg36", "date": "2025-08-13 08:03", "sender": "Keily Summers", "role": "member", "text": "Got oranges and bell peppers ready." },
+
+    { "id": "msg37", "date": "2025-08-16 06:30", "sender": "Rachel", "role": "travel_coordinator", "text": "Travel day tomorrow — dust kit packed." },
+    { "id": "msg38", "date": "2025-08-16 06:33", "sender": "Keily Summers", "role": "member", "text": "Great — I’ll rest early tonight." },
+
+    { "id": "msg39", "date": "2025-08-17 06:00", "sender": "Rachel", "role": "travel_coordinator", "text": "Morning Keily ✈️, weather in Delhi: 32°C, high humidity." },
+    { "id": "msg40", "date": "2025-08-17 06:05", "sender": "Keily Summers", "role": "member", "text": "Boarding in 30 mins — mask on." },
+    { "id": "msg41", "date": "2025-08-17 08:00", "sender": "Neel", "role": "analyst", "text": "Logging travel steps and hydration for the trip." },
+    { "id": "msg42", "date": "2025-08-17 18:00", "sender": "Keily Summers", "role": "member", "text": "Hotel room a bit stuffy, humidifier on now." },
+    { "id": "msg43", "date": "2025-08-17 18:05", "sender": "Carla", "role": "nutritionist", "text": "Good — drink herbal tea before bed." },
+
+    { "id": "msg44", "date": "2025-08-18 07:20", "sender": "Advik", "role": "fitness_expert", "text": "Morning stretch before meetings — 5 min cat-cow + side bends." },
+    { "id": "msg45", "date": "2025-08-18 07:22", "sender": "Keily Summers", "role": "member", "text": "Done — helped clear stiffness." },
+
+    { "id": "msg46", "date": "2025-08-20 07:45", "sender": "Rachel", "role": "travel_coordinator", "text": "Return flight on Aug 22 confirmed." },
+    { "id": "msg47", "date": "2025-08-20 07:48", "sender": "Ruby", "role": "coach", "text": "Keily, limit street food last 2 days to avoid stomach upset." },
+    { "id": "msg48", "date": "2025-08-20 07:50", "sender": "Keily Summers", "role": "member", "text": "Understood — sticking to cooked meals." },
+
+    { "id": "msg49", "date": "2025-08-22 21:00", "sender": "Rachel", "role": "travel_coordinator", "text": "Home safe from Delhi trip!" },
+    { "id": "msg50", "date": "2025-08-22 21:03", "sender": "Keily Summers", "role": "member", "text": "Thanks everyone — trip went smoother than expected." },
+
+    { "id": "msg51", "date": "2025-08-23 08:00", "sender": "Neel", "role": "analyst", "text": "Trip report: 85% hydration goal met, sneeze count minimal." },
+    { "id": "msg52", "date": "2025-08-23 08:03", "sender": "Ruby", "role": "coach", "text": "Huge improvement over last India trip." },
+
+    { "id": "msg53", "date": "2025-08-24 07:50", "sender": "Carla", "role": "nutritionist", "text": "Add probiotic yogurt for next 5 days post-travel." },
+    { "id": "msg54", "date": "2025-08-24 07:53", "sender": "Keily Summers", "role": "member", "text": "Already stocked up yesterday." },
+
+    { "id": "msg55", "date": "2025-08-25 08:10", "sender": "Advik", "role": "fitness_expert", "text": "Light jog + stretching today for recovery." },
+    { "id": "msg56", "date": "2025-08-25 08:12", "sender": "Keily Summers", "role": "member", "text": "Jog done — legs still a bit heavy." },
+
+    { "id": "msg57", "date": "2025-08-26 07:45", "sender": "Ruby", "role": "coach", "text": "End-of-program review this Friday — any notes you want added?" },
+    { "id": "msg58", "date": "2025-08-26 07:48", "sender": "Keily Summers", "role": "member", "text": "Let’s include back pain progress and hydration wins." },
+
+    { "id": "msg59", "date": "2025-08-27 07:40", "sender": "Neel", "role": "analyst", "text": "8-month data ready: 62% allergy symptom reduction." },
+    { "id": "msg60", "date": "2025-08-27 07:42", "sender": "Carla", "role": "nutritionist", "text": "Diet adherence 95% — amazing consistency." },
+    { "id": "msg61", "date": "2025-08-27 07:44", "sender": "Advik", "role": "fitness_expert", "text": "Core strength improved by 40% since Jan." },
+
+    { "id": "msg62", "date": "2025-08-28 09:00", "sender": "Ruby", "role": "coach", "text": "Keily, final review tomorrow — we’ll set next year’s targets too." },
+    { "id": "msg63", "date": "2025-08-28 09:02", "sender": "Keily Summers", "role": "member", "text": "Excited to see full progress charts." },
+
+    { "id": "msg64", "date": "2025-08-29 09:00", "sender": "Ruby", "role": "coach", "text": "8-Month Review: Congratulations Keily 🎉" },
+    { "id": "msg65", "date": "2025-08-29 09:02", "sender": "Neel", "role": "analyst", "text": "Hydration goal met on 78% of days this year so far." },
+    { "id": "msg66", "date": "2025-08-29 09:04", "sender": "Carla", "role": "nutritionist", "text": "Nutrient balance score improved to 92/100." },
+    { "id": "msg67", "date": "2025-08-29 09:06", "sender": "Advik", "role": "fitness_expert", "text": "Physical activity consistency: 90%." },
+    { "id": "msg68", "date": "2025-08-29 09:08", "sender": "Keily Summers", "role": "member", "text": "Thanks team — couldn’t have done it without you." },
+
+    { "id": "msg69", "date": "2025-08-30 08:00", "sender": "Ruby", "role": "coach", "text": "Weekend — take a celebratory outdoor walk today." },
+    { "id": "msg70", "date": "2025-08-30 08:02", "sender": "Keily Summers", "role": "member", "text": "20 min at the park sounds perfect." },
+
+    { "id": "msg71", "date": "2025-08-31 08:10", "sender": "Carla", "role": "nutritionist", "text": "Starting September, we’ll shift towards pregnancy-safe nutrition." },
+    { "id": "msg72", "date": "2025-08-31 08:12", "sender": "Keily Summers", "role": "member", "text": "Got it — will be extra careful with caffeine and supplements." }
+  ],
+  "events": [
+    {
+      "id": "evt9",
+      "date": "2025-08-17",
+      "type": "travel",
+      "title": "India Monsoon Trip",
+      "description": "Managed humidity, dust exposure, and maintained hydration during monsoon travel to Delhi.",
+      "reason": "Allergy and stamina management during work + family trip.",
+      "linked_messages": ["msg15", "msg17", "msg23", "msg40", "msg42", "msg44"]
+    },
+    {
+      "id": "evt10",
+      "date": "2025-08-29",
+      "type": "program_review",
+      "title": "8-Month Progress Review",
+      "description": "Reviewed allergy, hydration, and strength improvements; set next-year goals.",
+      "reason": "Celebrate wins, plan for pregnancy prep phase.",
+      "linked_messages": ["msg59", "msg60", "msg61", "msg64", "msg68"]
+    }
+  ]
+}
