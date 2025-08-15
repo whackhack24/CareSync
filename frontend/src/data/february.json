@@ -1,0 +1,387 @@
+{
+  "messages": [
+    {
+      "id": "msg1",
+      "date": "2025-02-01 08:20",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Morning! Slept 7.5 hours straight \u2014 feeling fresh."
+    },
+    {
+      "id": "msg2",
+      "date": "2025-02-01 08:25",
+      "sender": "Ruby",
+      "role": "coach",
+      "text": "Great start to the month! Any travel coming up?"
+    },
+    {
+      "id": "msg3",
+      "date": "2025-02-01 08:28",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Dubai trip in a week."
+    },
+    {
+      "id": "msg4",
+      "date": "2025-02-02 08:40",
+      "sender": "Rachel",
+      "role": "travel_coordinator",
+      "text": "Dubai air is dry & dusty \u2014 pack saline spray."
+    },
+    {
+      "id": "msg5",
+      "date": "2025-02-02 08:45",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Adding it to my bag checklist."
+    },
+    {
+      "id": "msg6",
+      "date": "2025-02-03 09:05",
+      "sender": "Ruby",
+      "role": "coach",
+      "text": "Hydrate well before and during travel."
+    },
+    {
+      "id": "msg7",
+      "date": "2025-02-03 09:07",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Will do. Planning to carry reusable water bottle."
+    },
+    {
+      "id": "msg8",
+      "date": "2025-02-04 07:50",
+      "sender": "Advik",
+      "role": "fitness_expert",
+      "text": "Morning stretches on flight days keep your back relaxed."
+    },
+    {
+      "id": "msg9",
+      "date": "2025-02-04 07:53",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "I\u2019ll do a quick session before leaving for airport."
+    },
+    {
+      "id": "msg10",
+      "date": "2025-02-05 12:15",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Got my resistance band packed for hotel workouts."
+    },
+    {
+      "id": "msg11",
+      "date": "2025-02-07 09:10",
+      "sender": "Carla",
+      "role": "nutritionist",
+      "text": "Try extra vitamin C this week to prep immunity."
+    },
+    {
+      "id": "msg12",
+      "date": "2025-02-07 09:15",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "I\u2019ll keep oranges handy."
+    },
+    {
+      "id": "msg13",
+      "date": "2025-02-08 22:00",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Landed in Dubai. Masked all day, no sneezing so far \ud83d\ude4c"
+    },
+    {
+      "id": "msg14",
+      "date": "2025-02-09 10:00",
+      "sender": "Rachel",
+      "role": "travel_coordinator",
+      "text": "Good! Avoid outdoor cafes during peak dust hours."
+    },
+    {
+      "id": "msg15",
+      "date": "2025-02-09 22:15",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Mild sneezing yesterday evening outdoors, otherwise fine."
+    },
+    {
+      "id": "msg16",
+      "date": "2025-02-10 09:00",
+      "sender": "Neel",
+      "role": "analyst",
+      "text": "Travel week avg steps: 8.2k/day \u2014 solid numbers."
+    },
+    {
+      "id": "msg17",
+      "date": "2025-02-10 09:05",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Happy I could still keep moving."
+    },
+    {
+      "id": "msg18",
+      "date": "2025-02-11 20:45",
+      "sender": "Ruby",
+      "role": "coach",
+      "text": "Proud of how you handled the dust risk."
+    },
+    {
+      "id": "msg19",
+      "date": "2025-02-11 20:47",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Preparation really helped this time."
+    },
+    {
+      "id": "msg20",
+      "date": "2025-02-12 07:15",
+      "sender": "Carla",
+      "role": "nutritionist",
+      "text": "Add lemon water daily for hydration boost."
+    },
+    {
+      "id": "msg21",
+      "date": "2025-02-13 07:30",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Allergy symptoms low this week \ud83c\udf89"
+    },
+    {
+      "id": "msg22",
+      "date": "2025-02-14 06:30",
+      "sender": "Advik",
+      "role": "fitness_expert",
+      "text": "Upgrading strength plan with resistance bands."
+    },
+    {
+      "id": "msg23",
+      "date": "2025-02-14 06:35",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Already tried them \u2014 feeling sore \ud83d\ude05"
+    },
+    {
+      "id": "msg24",
+      "date": "2025-02-15 08:25",
+      "sender": "Ruby",
+      "role": "coach",
+      "text": "Keep consistency over intensity."
+    },
+    {
+      "id": "msg25",
+      "date": "2025-02-15 08:27",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Noted!"
+    },
+    {
+      "id": "msg26",
+      "date": "2025-02-16 18:00",
+      "sender": "Ruby",
+      "role": "coach",
+      "text": "Your monthly check-in is coming up next week."
+    },
+    {
+      "id": "msg27",
+      "date": "2025-02-16 18:05",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Will mark my calendar."
+    },
+    {
+      "id": "msg28",
+      "date": "2025-02-17 07:45",
+      "sender": "Neel",
+      "role": "analyst",
+      "text": "Sleep score avg this month so far: 73."
+    },
+    {
+      "id": "msg29",
+      "date": "2025-02-17 07:50",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Big jump from January\u2019s 68."
+    },
+    {
+      "id": "msg30",
+      "date": "2025-02-18 09:10",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Feeling clearer with less sneezing."
+    },
+    {
+      "id": "msg31",
+      "date": "2025-02-19 08:50",
+      "sender": "Carla",
+      "role": "nutritionist",
+      "text": "Any unusual cravings lately?"
+    },
+    {
+      "id": "msg32",
+      "date": "2025-02-19 08:52",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Yes \u2014 been wanting to chew ice."
+    },
+    {
+      "id": "msg33",
+      "date": "2025-02-19 08:55",
+      "sender": "Carla",
+      "role": "nutritionist",
+      "text": "That\u2019s pagophagia, linked to low iron. Good we\u2019re tracking it."
+    },
+    {
+      "id": "msg34",
+      "date": "2025-02-20 21:00",
+      "sender": "Neel",
+      "role": "analyst",
+      "text": "This month\u2019s activity avg: 7.8k steps/day."
+    },
+    {
+      "id": "msg35",
+      "date": "2025-02-20 21:03",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Keeping active despite travel."
+    },
+    {
+      "id": "msg36",
+      "date": "2025-02-21 07:40",
+      "sender": "Ruby",
+      "role": "coach",
+      "text": "Two months in \u2014 flare-ups halved!"
+    },
+    {
+      "id": "msg37",
+      "date": "2025-02-21 07:43",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Feeling more in control now."
+    },
+    {
+      "id": "msg38",
+      "date": "2025-02-22 08:05",
+      "sender": "Rachel",
+      "role": "travel_coordinator",
+      "text": "Next trip in March?"
+    },
+    {
+      "id": "msg39",
+      "date": "2025-02-22 08:08",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Will confirm dates soon."
+    },
+    {
+      "id": "msg40",
+      "date": "2025-02-23 07:40",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Energy levels stable all week."
+    },
+    {
+      "id": "msg41",
+      "date": "2025-02-23 07:45",
+      "sender": "Advik",
+      "role": "fitness_expert",
+      "text": "Keep up with stretches to maintain that energy."
+    },
+    {
+      "id": "msg42",
+      "date": "2025-02-24 18:40",
+      "sender": "Carla",
+      "role": "nutritionist",
+      "text": "Drink at least 2L water during site visits."
+    },
+    {
+      "id": "msg43",
+      "date": "2025-02-24 18:42",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Noted \u2014 will refill bottle twice daily."
+    },
+    {
+      "id": "msg44",
+      "date": "2025-02-25 08:30",
+      "sender": "Neel",
+      "role": "analyst",
+      "text": "Sleep score this week: 75 \ud83c\udfaf"
+    },
+    {
+      "id": "msg45",
+      "date": "2025-02-25 08:35",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Love this progress."
+    },
+    {
+      "id": "msg46",
+      "date": "2025-02-26 19:00",
+      "sender": "Ruby",
+      "role": "coach",
+      "text": "What\u2019s one habit you\u2019re proud of this month?"
+    },
+    {
+      "id": "msg47",
+      "date": "2025-02-26 19:05",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Daily lemon water without fail."
+    },
+    {
+      "id": "msg48",
+      "date": "2025-02-27 08:15",
+      "sender": "Advik",
+      "role": "fitness_expert",
+      "text": "We\u2019ll introduce light cardio next month."
+    },
+    {
+      "id": "msg49",
+      "date": "2025-02-27 08:18",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Excited for it!"
+    },
+    {
+      "id": "msg50",
+      "date": "2025-02-28 09:00",
+      "sender": "Ruby",
+      "role": "coach",
+      "text": "Great job this month \u2014 symptoms down 50%."
+    },
+    {
+      "id": "msg51",
+      "date": "2025-02-28 09:03",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Thanks team! Couldn\u2019t have done it without you."
+    }
+  ],
+  "events": [
+    {
+      "id": "evt3",
+      "date": "2025-02-08",
+      "type": "travel",
+      "title": "Dubai Work Trip",
+      "description": "Managed dust allergy during travel.",
+      "reason": "High dust risk environment.",
+      "linked_messages": [
+        "msg13",
+        "msg15"
+      ]
+    },
+    {
+      "id": "evt4",
+      "date": "2025-02-14",
+      "type": "exercise_update",
+      "title": "Resistance Band Upgrade",
+      "description": "Added new strength routine.",
+      "reason": "Support posture & back health.",
+      "linked_messages": [
+        "msg22",
+        "msg23"
+      ]
+    }
+  ]
+}
