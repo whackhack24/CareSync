@@ -1,0 +1,94 @@
+{
+  "messages": [
+    { "id": "msg1", "date": "2025-04-01 07:45", "sender": "Keily Summers", "role": "member", "text": "Morning! Slept only 6h 20m, bit restless." },
+    { "id": "msg2", "date": "2025-04-01 07:48", "sender": "Ruby", "role": "coach", "text": "Morning, Keily ☀️. Let’s add 5 min breathing before bed." },
+    { "id": "msg3", "date": "2025-04-01 07:52", "sender": "Keily Summers", "role": "member", "text": "Will try that tonight." },
+    { "id": "msg4", "date": "2025-04-01 08:05", "sender": "Neel", "role": "analyst", "text": "Pollen index high this week, keep mask ready." },
+
+    { "id": "msg5", "date": "2025-04-02 07:50", "sender": "Advik", "role": "fitness_expert", "text": "Let’s add 1 extra plank set today." },
+    { "id": "msg6", "date": "2025-04-02 07:52", "sender": "Keily Summers", "role": "member", "text": "Managed 40 sec, arms shaking!" },
+    { "id": "msg7", "date": "2025-04-02 07:55", "sender": "Advik", "role": "fitness_expert", "text": "Good start. Aim 50 sec by month-end." },
+
+    { "id": "msg8", "date": "2025-04-03 08:10", "sender": "Carla", "role": "nutritionist", "text": "Breakfast idea: papaya + chia seeds." },
+    { "id": "msg9", "date": "2025-04-03 08:12", "sender": "Keily Summers", "role": "member", "text": "Will make that today." },
+    { "id": "msg10", "date": "2025-04-03 20:10", "sender": "Keily Summers", "role": "member", "text": "Mild sneezing after site visit today." },
+    { "id": "msg11", "date": "2025-04-03 20:12", "sender": "Ruby", "role": "coach", "text": "Did you wear your mask throughout?" },
+    { "id": "msg12", "date": "2025-04-03 20:15", "sender": "Keily Summers", "role": "member", "text": "Yes, but dusty winds on the way back." },
+
+    { "id": "msg13", "date": "2025-04-04 07:40", "sender": "Rachel", "role": "travel_coordinator", "text": "Reminder: Tokyo trip April 12–16 confirmed." },
+    { "id": "msg14", "date": "2025-04-04 07:43", "sender": "Keily Summers", "role": "member", "text": "Got it, thanks." },
+    { "id": "msg15", "date": "2025-04-04 07:45", "sender": "Rachel", "role": "travel_coordinator", "text": "Packing list will include extra mask filters & nasal spray." },
+
+    { "id": "msg16", "date": "2025-04-05 08:05", "sender": "Neel", "role": "analyst", "text": "Your water intake last week: 2.3L avg/day." },
+    { "id": "msg17", "date": "2025-04-05 08:07", "sender": "Ruby", "role": "coach", "text": "Let’s push to 2.7L this week." },
+    { "id": "msg18", "date": "2025-04-05 08:10", "sender": "Keily Summers", "role": "member", "text": "Will carry bottle to all meetings." },
+
+    { "id": "msg19", "date": "2025-04-06 07:55", "sender": "Carla", "role": "nutritionist", "text": "Keily, new smoothie recipe shared in app." },
+    { "id": "msg20", "date": "2025-04-06 07:57", "sender": "Keily Summers", "role": "member", "text": "Saw it, looks refreshing!" },
+
+    { "id": "msg21", "date": "2025-04-07 08:15", "sender": "Advik", "role": "fitness_expert", "text": "How’s your lower back after last week’s planks?" },
+    { "id": "msg22", "date": "2025-04-07 08:17", "sender": "Keily Summers", "role": "member", "text": "No pain, just slight soreness." },
+
+    { "id": "msg23", "date": "2025-04-08 07:50", "sender": "Ruby", "role": "coach", "text": "Diagnostic blood test scheduled for Apr 10." },
+    { "id": "msg24", "date": "2025-04-08 07:53", "sender": "Keily Summers", "role": "member", "text": "Noted. Fasting from midnight, right?" },
+    { "id": "msg25", "date": "2025-04-08 07:55", "sender": "Carla", "role": "nutritionist", "text": "Yes, and hydrate well day before." },
+
+    { "id": "msg26", "date": "2025-04-09 20:05", "sender": "Keily Summers", "role": "member", "text": "Pre-test dinner done — grilled fish + veggies." },
+    { "id": "msg27", "date": "2025-04-09 20:07", "sender": "Carla", "role": "nutritionist", "text": "Perfect choice." },
+
+    { "id": "msg28", "date": "2025-04-10 08:30", "sender": "Keily Summers", "role": "member", "text": "Blood test done, results in 2 days." },
+    { "id": "msg29", "date": "2025-04-10 08:32", "sender": "Neel", "role": "analyst", "text": "Will prep comparison charts with Jan data." },
+
+    { "id": "msg30", "date": "2025-04-11 08:00", "sender": "Ruby", "role": "coach", "text": "Light yoga today before your flight tomorrow." },
+    { "id": "msg31", "date": "2025-04-11 08:02", "sender": "Keily Summers", "role": "member", "text": "On it." },
+
+    { "id": "msg32", "date": "2025-04-12 06:40", "sender": "Rachel", "role": "travel_coordinator", "text": "Tokyo travel day! Dust mask & meds packed." },
+    { "id": "msg33", "date": "2025-04-12 06:42", "sender": "Keily Summers", "role": "member", "text": "All set." },
+
+    { "id": "msg34", "date": "2025-04-13 09:00", "sender": "Keily Summers", "role": "member", "text": "Hotel air a bit dry, humidifier running." },
+    { "id": "msg35", "date": "2025-04-13 09:05", "sender": "Carla", "role": "nutritionist", "text": "Add warm water sips every hour." },
+
+    { "id": "msg36", "date": "2025-04-14 07:45", "sender": "Rachel", "role": "travel_coordinator", "text": "Keily walked 6.2k steps yesterday." },
+    { "id": "msg37", "date": "2025-04-14 07:47", "sender": "Neel", "role": "analyst", "text": "Great! Close to goal despite travel." },
+
+    { "id": "msg38", "date": "2025-04-15 08:10", "sender": "Keily Summers", "role": "member", "text": "Mild back ache after long meeting." },
+    { "id": "msg39", "date": "2025-04-15 08:12", "sender": "Advik", "role": "fitness_expert", "text": "Stretch set in app — do twice today." },
+
+    { "id": "msg40", "date": "2025-04-16 19:00", "sender": "Rachel", "role": "travel_coordinator", "text": "Back from Tokyo, all flights on time." },
+    { "id": "msg41", "date": "2025-04-16 19:02", "sender": "Keily Summers", "role": "member", "text": "Good to be home!" },
+
+    { "id": "msg42", "date": "2025-04-17 09:00", "sender": "Neel", "role": "analyst", "text": "Blood test shows 10% better immunity markers vs Jan." },
+    { "id": "msg43", "date": "2025-04-17 09:02", "sender": "Ruby", "role": "coach", "text": "Fantastic — will adjust next month’s plan." },
+
+    { "id": "msg44", "date": "2025-04-18 07:55", "sender": "Carla", "role": "nutritionist", "text": "Add beetroot salad twice this week." },
+    { "id": "msg45", "date": "2025-04-18 07:57", "sender": "Keily Summers", "role": "member", "text": "Got beets yesterday." },
+
+    { "id": "msg46", "date": "2025-04-20 08:05", "sender": "Ruby", "role": "coach", "text": "Weekly review — steps + sleep improved." },
+    { "id": "msg47", "date": "2025-04-20 08:08", "sender": "Keily Summers", "role": "member", "text": "Feeling more energetic lately." },
+
+    { "id": "msg48", "date": "2025-04-25 08:15", "sender": "Advik", "role": "fitness_expert", "text": "Try 12 min jog today." },
+    { "id": "msg49", "date": "2025-04-25 08:17", "sender": "Keily Summers", "role": "member", "text": "Did it without breaks!" },
+
+    { "id": "msg50", "date": "2025-04-30 20:00", "sender": "Ruby", "role": "coach", "text": "April wrap-up: travel managed well + strong test results. May will push stamina further." }
+  ],
+  "events": [
+    {
+      "id": "evt7",
+      "date": "2025-04-10",
+      "type": "diagnostic_test",
+      "title": "Second Diagnostic Blood Test",
+      "description": "Compared with January baseline, showing improved immunity markers.",
+      "reason": "Quarterly health check to adjust interventions.",
+      "linked_messages": ["msg23", "msg25", "msg28", "msg29", "msg42"]
+    },
+    {
+      "id": "evt8",
+      "date": "2025-04-12",
+      "type": "travel",
+      "title": "Tokyo Work Trip",
+      "description": "Managed back pain and allergy triggers during international travel.",
+      "reason": "Work-related site visits.",
+      "linked_messages": ["msg13", "msg15", "msg32", "msg34", "msg38"]
+    }
+  ]
+}
