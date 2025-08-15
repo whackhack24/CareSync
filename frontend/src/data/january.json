@@ -1,0 +1,383 @@
+{
+  "messages": [
+    {
+      "id": "msg1",
+      "date": "2025-01-02 08:10",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Morning Ruby \ud83c\udf24\ufe0f Sneezed a few times after waking up. Sleep score was 64."
+    },
+    {
+      "id": "msg2",
+      "date": "2025-01-02 08:15",
+      "sender": "Ruby",
+      "role": "coach",
+      "text": "Morning Keily! Any idea if you were in a dusty place yesterday?"
+    },
+    {
+      "id": "msg3",
+      "date": "2025-01-02 08:19",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Yes, there was renovation dust all around the site."
+    },
+    {
+      "id": "msg4",
+      "date": "2025-01-02 08:25",
+      "sender": "Ruby",
+      "role": "coach",
+      "text": "Got it. I\u2019ll tag Carla for anti-inflammatory food ideas."
+    },
+    {
+      "id": "msg5",
+      "date": "2025-01-02 09:12",
+      "sender": "Carla",
+      "role": "nutritionist",
+      "text": "Hi Keily, try ginger-turmeric tea twice daily \ud83c\udf75 and more vitamin C fruits."
+    },
+    {
+      "id": "msg6",
+      "date": "2025-01-02 09:16",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Got it. Should I cut dairy?"
+    },
+    {
+      "id": "msg7",
+      "date": "2025-01-02 09:19",
+      "sender": "Carla",
+      "role": "nutritionist",
+      "text": "Yes, limit milk/cheese for two weeks."
+    },
+    {
+      "id": "msg8",
+      "date": "2025-01-03 19:05",
+      "sender": "Ruby",
+      "role": "coach",
+      "text": "How was your day today? Any sneezing episodes?"
+    },
+    {
+      "id": "msg9",
+      "date": "2025-01-03 19:10",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Only once in the morning. Tea is helping!"
+    },
+    {
+      "id": "msg10",
+      "date": "2025-01-04 07:55",
+      "sender": "Advik",
+      "role": "fitness_expert",
+      "text": "Let\u2019s start with 10-min core stretches daily \ud83e\uddd8\u200d\u2640\ufe0f."
+    },
+    {
+      "id": "msg11",
+      "date": "2025-01-04 07:57",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Should I do them before or after breakfast?"
+    },
+    {
+      "id": "msg12",
+      "date": "2025-01-04 08:02",
+      "sender": "Advik",
+      "role": "fitness_expert",
+      "text": "Before breakfast, just hydrate first."
+    },
+    {
+      "id": "msg13",
+      "date": "2025-01-05 09:30",
+      "sender": "Neel",
+      "role": "analyst",
+      "text": "Your activity is up 10% from last week \ud83d\udc4f"
+    },
+    {
+      "id": "msg14",
+      "date": "2025-01-05 09:35",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "I\u2019ve been walking more at work."
+    },
+    {
+      "id": "msg15",
+      "date": "2025-01-06 18:10",
+      "sender": "Ruby",
+      "role": "coach",
+      "text": "Any change in allergy symptoms today?"
+    },
+    {
+      "id": "msg16",
+      "date": "2025-01-06 18:15",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Better! Only sneezed after lunch."
+    },
+    {
+      "id": "msg17",
+      "date": "2025-01-07 08:15",
+      "sender": "Carla",
+      "role": "nutritionist",
+      "text": "Try warm lemon water in mornings for better immunity."
+    },
+    {
+      "id": "msg18",
+      "date": "2025-01-07 08:17",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Will do! Sounds refreshing."
+    },
+    {
+      "id": "msg19",
+      "date": "2025-01-08 07:30",
+      "sender": "Neel",
+      "role": "analyst",
+      "text": "Step count 7k avg/day this week \ud83d\udc4d"
+    },
+    {
+      "id": "msg20",
+      "date": "2025-01-08 07:32",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Happy to see progress!"
+    },
+    {
+      "id": "msg21",
+      "date": "2025-01-10 07:45",
+      "sender": "Advik",
+      "role": "fitness_expert",
+      "text": "Adding light resistance band work from next week."
+    },
+    {
+      "id": "msg22",
+      "date": "2025-01-11 20:00",
+      "sender": "Rachel",
+      "role": "travel_coordinator",
+      "text": "Any upcoming travel before Feb?"
+    },
+    {
+      "id": "msg23",
+      "date": "2025-01-11 20:05",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Nope, just local visits."
+    },
+    {
+      "id": "msg24",
+      "date": "2025-01-12 21:50",
+      "sender": "Rachel",
+      "role": "travel_coordinator",
+      "text": "Okay, I\u2019ll prep your Feb travel kit soon."
+    },
+    {
+      "id": "msg25",
+      "date": "2025-01-13 08:00",
+      "sender": "Ruby",
+      "role": "coach",
+      "text": "How\u2019s the lemon water routine going?"
+    },
+    {
+      "id": "msg26",
+      "date": "2025-01-13 08:05",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Loving it!"
+    },
+    {
+      "id": "msg27",
+      "date": "2025-01-14 19:00",
+      "sender": "Neel",
+      "role": "analyst",
+      "text": "You logged 8k steps today \ud83d\udc4f"
+    },
+    {
+      "id": "msg28",
+      "date": "2025-01-14 19:02",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Walked extra in the evening."
+    },
+    {
+      "id": "msg29",
+      "date": "2025-01-15 14:00",
+      "sender": "Dr. Warren",
+      "role": "doctor",
+      "text": "Your quarterly test is due \u2014 iron, CRP, vitamin D."
+    },
+    {
+      "id": "msg30",
+      "date": "2025-01-15 14:05",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Will schedule for Thursday."
+    },
+    {
+      "id": "msg31",
+      "date": "2025-01-16 10:40",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Tests done \u2705 results soon."
+    },
+    {
+      "id": "msg32",
+      "date": "2025-01-17 17:25",
+      "sender": "Neel",
+      "role": "analyst",
+      "text": "Iron slightly low & CRP slightly high \u2014 mild inflammation."
+    },
+    {
+      "id": "msg33",
+      "date": "2025-01-18 09:50",
+      "sender": "Ruby",
+      "role": "coach",
+      "text": "Let\u2019s add short evening walks after work."
+    },
+    {
+      "id": "msg34",
+      "date": "2025-01-18 19:00",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Tried it, felt nice to unwind."
+    },
+    {
+      "id": "msg35",
+      "date": "2025-01-20 08:15",
+      "sender": "Carla",
+      "role": "nutritionist",
+      "text": "How\u2019s the kiwi & tea routine?"
+    },
+    {
+      "id": "msg36",
+      "date": "2025-01-20 08:20",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Still going strong."
+    },
+    {
+      "id": "msg37",
+      "date": "2025-01-21 16:45",
+      "sender": "Neel",
+      "role": "analyst",
+      "text": "Step count up 20% since evening walks \ud83d\udcaa"
+    },
+    {
+      "id": "msg38",
+      "date": "2025-01-21 16:50",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Small habits work wonders."
+    },
+    {
+      "id": "msg39",
+      "date": "2025-01-22 21:05",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Mild throat dryness tonight."
+    },
+    {
+      "id": "msg40",
+      "date": "2025-01-22 21:10",
+      "sender": "Dr. Warren",
+      "role": "doctor",
+      "text": "Use a humidifier if possible."
+    },
+    {
+      "id": "msg41",
+      "date": "2025-01-23 08:00",
+      "sender": "Ruby",
+      "role": "coach",
+      "text": "How\u2019s your energy level this week?"
+    },
+    {
+      "id": "msg42",
+      "date": "2025-01-23 08:05",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Much better than start of month."
+    },
+    {
+      "id": "msg43",
+      "date": "2025-01-24 18:30",
+      "sender": "Advik",
+      "role": "fitness_expert",
+      "text": "Posture looking better during stretches."
+    },
+    {
+      "id": "msg44",
+      "date": "2025-01-25 08:30",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "I feel more stable too."
+    },
+    {
+      "id": "msg45",
+      "date": "2025-01-26 09:00",
+      "sender": "Neel",
+      "role": "analyst",
+      "text": "Sleep score avg this week: 70."
+    },
+    {
+      "id": "msg46",
+      "date": "2025-01-26 09:05",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Nice improvement from last week."
+    },
+    {
+      "id": "msg47",
+      "date": "2025-01-27 07:50",
+      "sender": "Carla",
+      "role": "nutritionist",
+      "text": "Add nuts/seeds for iron boost."
+    },
+    {
+      "id": "msg48",
+      "date": "2025-01-27 07:55",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Got chia seeds yesterday."
+    },
+    {
+      "id": "msg49",
+      "date": "2025-01-28 19:00",
+      "sender": "Ruby",
+      "role": "coach",
+      "text": "One month in \u2014 flare-ups reduced 30% \ud83c\udf89"
+    },
+    {
+      "id": "msg50",
+      "date": "2025-01-28 19:05",
+      "sender": "Keily Summers",
+      "role": "member",
+      "text": "Feeling encouraged!"
+    }
+  ],
+  "events": [
+    {
+      "id": "evt1",
+      "date": "2025-01-15",
+      "type": "diagnostic_test",
+      "title": "Quarterly Blood Test",
+      "description": "Checked iron levels, CRP, vitamin D.",
+      "reason": "Keily\u2019s dust allergy & fatigue symptoms required tracking.",
+      "linked_messages": [
+        "msg29",
+        "msg30",
+        "msg31",
+        "msg32"
+      ]
+    },
+    {
+      "id": "evt2",
+      "date": "2025-01-18",
+      "type": "plan_update",
+      "title": "Evening Walk Routine Added",
+      "description": "Short walks after site visits.",
+      "reason": "Diagnostic showed inflammation linked to dust exposure.",
+      "linked_messages": [
+        "msg33",
+        "msg34",
+        "msg35"
+      ]
+    }
+  ]
+}
