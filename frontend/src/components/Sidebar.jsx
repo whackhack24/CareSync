@@ -5,7 +5,7 @@ export default function Sidebar() {
       <ul>
         <li class="dashboard"><a href="#dashboard">Dashboard</a></li>
         <li>Goals</li>
-        <li>Reports</li>
+        <li><a href="#charts">Reports</a></li>
         <li><a href="#chat">Chats</a></li>
       </ul>
     </aside>

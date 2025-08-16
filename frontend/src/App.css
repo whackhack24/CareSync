@@ -2,3 +2,13 @@
     display: flex;
     justify-content: space-between;
 }
+
+.right-container {
+  display: flex;
+  flex-direction: column;  /* ✅ stack sections vertically */
+  flex: 1;
+}
+
+section {
+  margin-bottom: 40px;  /* spacing between sections */
+}

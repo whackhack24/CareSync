@@ -2,15 +2,13 @@ li{
     color:gray;
     cursor: pointer;
     font-size: 1.4rem;
+}
+li a:hover, li:hover{
+    color:blue;
+}
+li a{
     text-decoration: none;
-}
-li:hover{
-    color:blue;
-}
-.dashboard{
-    color:blue;
-    cursor: pointer;
-    font-weight: bold;
+    color: grey;
 }
 
 ul{
