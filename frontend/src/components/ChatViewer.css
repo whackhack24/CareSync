@@ -1,0 +1,87 @@
+/* container & shared bubble (your existing rules kept) */
+.chat-container {
+  display: flex;
+  flex-direction: column;
+  background: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,.1);
+  padding: 16px;
+  max-height: 500px;
+  overflow-y: auto;
+}
+
+.chat-bubble {
+  padding: 10px 14px;
+  border-radius: 12px;
+  margin: 8px 0;
+  max-width: 30%;
+  width: fit-content;              /* shrink to text */
+  word-wrap: break-word;
+  white-space: pre-wrap;
+}
+
+.chat-bubble.user {
+  background: #dcf8c6;             /* green */
+  margin-left: auto;
+  text-align: right;
+}
+
+.chat-bubble.team {
+  background: #f1f0f0;             /* default team gray */
+  margin-right: auto;
+  text-align: left;
+}
+
+/* ===== Per-sender overrides (add more as needed) ===== */
+.chat-bubble.team.ruby {            /* Ruby */
+  background: #e3f2fd;
+  border-color: #90caf9;
+}
+
+.chat-bubble.team.carla,            /* Carla */
+.chat-bubble.team.carla-dietitian {
+  background: #fff3cd;
+  border-color: #ffec99;
+}
+
+.chat-bubble.team.advik {           /* Advik */
+  background: #f8d7da;
+  border-color: #f5c2c7;
+}
+
+.chat-bubble.team.neel {            /* Neel */
+  background: #d1ecf1;
+  border-color: #bee5eb;
+}
+
+.chat-bubble.team.rachel {
+  background: #e8f5e9;    /* light green */
+  border-color: #a5d6a7;
+}
+
+.chat-bubble.team.dr-warren {
+  background: #f3e5f5;    /* light purple */
+  border-color: #ce93d8;
+}
+
+/* add more using the slug (see console if unsure) */
+
+
+.sender {
+  font-size: 12px;
+  font-weight: bold;
+  margin-bottom: 4px;
+  color: #555;
+}
+
+.message-text {
+  font-size: 14px;
+  margin: 0;
+}
+
+.date {
+  font-size: 11px;
+  color: #999;
+  display: block;
+  margin-top: 4px;
+}

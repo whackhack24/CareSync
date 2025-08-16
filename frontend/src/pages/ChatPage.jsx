@@ -11,12 +11,9 @@ import ChatViewer from "../components/ChatViewer";
 export default function ChatPage() {
   // Merge both months' messages
   const allMessages = [...january.messages, ...february.messages, ...march.messages, ...april.messages, ...may.messages, ...june.messages, ...july.messages, ...august.messages];
-  console.log(january);
-  console.log(february);
-
   return (
     <div className="p-6">
-      <h2 className="text-2xl font-bold mb-4">Member-Coach Conversations</h2>
+      <h2 style={{color: "#000000", fontSize: "2.5rem", textAlign: "center"}}>Chats</h2>
       <ChatViewer messages={allMessages} />
     </div>
   );
