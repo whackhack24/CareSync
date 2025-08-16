@@ -79,11 +79,14 @@
 
     { "id": "msg57", "date": "2025-08-26 07:45", "sender": "Ruby", "role": "coach", "text": "End-of-program review this Friday — any notes you want added?" },
     { "id": "msg58", "date": "2025-08-26 07:48", "sender": "Keily Summers", "role": "member", "text": "Let’s include back pain progress and hydration wins." },
-
+    { "id": "msg57a", "date": "2025-08-26 08:30", "sender": "Ruby", "role": "coach", "text": "Keily, final diagnostic blood test is scheduled for Aug 27." },
+    { "id": "msg57b", "date": "2025-08-27 07:20", "sender": "Keily Summers", "role": "member", "text": "Blood test done this morning — waiting for report." },
     { "id": "msg59", "date": "2025-08-27 07:40", "sender": "Neel", "role": "analyst", "text": "8-month data ready: 62% allergy symptom reduction." },
     { "id": "msg60", "date": "2025-08-27 07:42", "sender": "Carla", "role": "nutritionist", "text": "Diet adherence 95% — amazing consistency." },
     { "id": "msg61", "date": "2025-08-27 07:44", "sender": "Advik", "role": "fitness_expert", "text": "Core strength improved by 40% since Jan." },
-
+    { "id": "msg57c", "date": "2025-08-27 12:00", "sender": "Neel", "role": "analyst", "text": "Results in: inflammation markers down 12%, immunity stable compared to April." },
+    { "id": "msg57d", "date": "2025-08-27 12:05", "sender": "Carla", "role": "nutritionist", "text": "Diet adherence clearly reflected in improved vitamin D and iron levels." },
+    { "id": "msg57e", "date": "2025-08-27 12:07", "sender": "Ruby", "role": "coach", "text": "Perfect timing — these results support the pregnancy-prep nutrition shift." },
     { "id": "msg62", "date": "2025-08-28 09:00", "sender": "Ruby", "role": "coach", "text": "Keily, final review tomorrow — we’ll set next year’s targets too." },
     { "id": "msg63", "date": "2025-08-28 09:02", "sender": "Keily Summers", "role": "member", "text": "Excited to see full progress charts." },
 
@@ -100,23 +103,33 @@
     { "id": "msg72", "date": "2025-08-31 08:12", "sender": "Keily Summers", "role": "member", "text": "Got it — will be extra careful with caffeine and supplements." }
   ],
   "events": [
-    {
-      "id": "evt9",
-      "date": "2025-08-17",
-      "type": "travel",
-      "title": "India Monsoon Trip",
-      "description": "Managed humidity, dust exposure, and maintained hydration during monsoon travel to Delhi.",
-      "reason": "Allergy and stamina management during work + family trip.",
-      "linked_messages": ["msg15", "msg17", "msg23", "msg40", "msg42", "msg44"]
-    },
-    {
-      "id": "evt10",
-      "date": "2025-08-29",
-      "type": "program_review",
-      "title": "8-Month Progress Review",
-      "description": "Reviewed allergy, hydration, and strength improvements; set next-year goals.",
-      "reason": "Celebrate wins, plan for pregnancy prep phase.",
-      "linked_messages": ["msg59", "msg60", "msg61", "msg64", "msg68"]
-    }
-  ]
+  {
+    "id": "evt9",
+    "date": "2025-08-17",
+    "type": "travel",
+    "title": "India Monsoon Trip",
+    "description": "Managed humidity, dust exposure, and maintained hydration during monsoon travel to Delhi.",
+    "reason": "Allergy and stamina management during work + family trip.",
+    "linked_messages": ["msg15", "msg17", "msg23", "msg40", "msg42", "msg44"]
+  },
+  {
+    "id": "evt11",
+    "date": "2025-08-27",
+    "type": "diagnostic_test",
+    "title": "Final Diagnostic Blood Test",
+    "description": "Showed stable immunity and reduced inflammation markers compared with April, validating consistency before shifting to pregnancy-prep phase.",
+    "reason": "Quarterly health check at end of 8-month program.",
+    "linked_messages": ["msg57a", "msg57b", "msg57c", "msg57d", "msg57e"]
+  },
+  {
+    "id": "evt10",
+    "date": "2025-08-29",
+    "type": "program_review",
+    "title": "8-Month Progress Review",
+    "description": "Reviewed allergy, hydration, and strength improvements; set next-year goals.",
+    "reason": "Celebrate wins, plan for pregnancy prep phase.",
+    "linked_messages": ["msg59", "msg60", "msg61", "msg64", "msg65", "msg66", "msg67", "msg68"]
+  }
+]
+
 }
