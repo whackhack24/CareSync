@@ -1,12 +1,13 @@
 import "./Sidebar.css"
+import { Link } from "react-router-dom";
 export default function Sidebar() {
   return (
     <aside>
       <ul>
-        <li class="dashboard">Dashboard</li>
+        <li class="dashboard"><a href="#dashboard">Dashboard</a></li>
         <li>Goals</li>
         <li>Reports</li>
-        <li>Chat</li>
+        <li><a href="#chat">Chats</a></li>
       </ul>
     </aside>
   );

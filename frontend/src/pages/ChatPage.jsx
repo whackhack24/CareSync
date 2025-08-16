@@ -9,7 +9,7 @@ import august from "../data/august.json";
 import ChatViewer from "../components/ChatViewer";
 
 export default function ChatPage() {
-  // Merge both months' messages
+  // Merge all months' messages
   const allMessages = [...january.messages, ...february.messages, ...march.messages, ...april.messages, ...may.messages, ...june.messages, ...july.messages, ...august.messages];
   return (
     <div className="p-6">

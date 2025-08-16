@@ -8,12 +8,11 @@ export default function Dashboard() {
             "linear-gradient(180deg, rgba(255, 61, 61, 1) 0%, rgba(255, 179, 179, 1) 50%, rgba(255, 230, 230, 1) 100%)",
         }}/>
       <Card title="Blood Pressure" value="120/80" unit="mmHg" link="https://cdn-icons-png.flaticon.com/512/4482/4482348.png" style={{
-          background:
-            "linear-gradient(180deg, rgba(99, 57, 57, 1) 0%, rgba(128, 108, 108, 1) 50%, rgba(145, 145, 145, 1) 100%)",
+          background: "linear-gradient(180deg,rgba(133, 73, 64, 1) 0%, rgba(179, 154, 154, 1) 50%, rgba(224, 224, 224, 1) 100%)",
         }} />
       <Card title="Glucose" value="105" unit="mg/dL" link="https://png.pngtree.com/png-vector/20200518/ourmid/pngtree-hand-with-medical-blood-glucose-measurement-monitor-png-image_2207810.jpg" style={{
           background:
-            "linear-gradient(180deg, rgba(255, 231, 125, 1) 0%, rgba(255, 251, 196, 1) 50%, rgba(255, 255, 255, 1) 100%)",
+            "linear-gradient(180deg,rgba(251, 255, 0, 1) 0%, rgba(255, 253, 181, 1) 50%, rgba(255, 255, 255, 1) 100%)",
         }}/>
       <Card title="Sleep" value="7" unit="hrs" link="https://www.clipartmax.com/png/middle/20-204037_sleep-icon-clipart-sleeping-icon-png.png" style={{
           background:
@@ -24,8 +23,7 @@ export default function Dashboard() {
             "linear-gradient(180deg, rgba(250, 185, 72, 1) 0%, rgba(235, 218, 181, 1) 50%, rgba(255, 255, 255, 1) 100%)",
         }}/>
       <Card title="Nutrition" value="1800" unit="kcal" link="https://www.vhv.rs/dpng/d/490-4909519_healthy-food-flat-png-clipart-png-download-healthy.png"  style={{
-          background:
-            "linear-gradient(180deg, rgba(45, 127, 250, 1) 0%, rgba(181, 211, 235, 1) 50%, rgba(242, 250, 255, 1) 100%)",
+         background: "linear-gradient(180deg, rgba(36,156,40,1) 0%, rgba(135,204,135,1) 50%, rgba(216,237,217,1) 100%)"
         }}/>
     </div>
   );

@@ -10,8 +10,13 @@ export default function App() {
       <div class="left-container">
         <Sidebar />
         <div class="right-container">
-          <Dashboard />
-          <Chatpage />
+          {/* 👇 Switch content here */}
+          <section id="dashboard">
+            <Dashboard />
+          </section>
+          <section id="chat">
+            <Chatpage />
+          </section>
         </div>
       </div>
     </div>
