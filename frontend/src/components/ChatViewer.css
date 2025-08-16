@@ -85,3 +85,32 @@
   display: block;
   margin-top: 4px;
 }
+
+.chat-wrapper {
+  max-width: 700px;
+  margin: 20px auto;
+  font-family: sans-serif;
+}
+
+.chat-filters {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 15px;
+}
+
+.filter-select, .filter-input {
+  padding: 8px 12px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+}
+
+.filter-input {
+  flex: 1;
+}
+
+.no-messages {
+  text-align: center;
+  color: #666;
+  margin-top: 20px;
+}
