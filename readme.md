@@ -67,7 +67,7 @@ CareSync/
 - npm run dev
 
 5. **Running the Mistral API**
-- Refer the example.env file in folder.
+- Refer the example_env.txt file in folder.
 - Follow the same structure.
 - Generate your own API key from console.mistral.ai
 - Paste the generated key in your .env file.
