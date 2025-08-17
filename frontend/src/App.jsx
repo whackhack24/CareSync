@@ -2,6 +2,7 @@ import Navbar from "./components/Navbar";
 import Sidebar from "./components/Sidebar";
 import Dashboard from "./pages/Dashboard";
 import Chatpage from "./pages/ChatPage";
+import Profile from "./components/Profile";
 import "./App.css"
 import Trends from "./pages/Trends";
 import { loadAllData } from "./lib/loadData";   // 👈 import
@@ -16,6 +17,7 @@ export default function App() {
           {/* 👇 Switch content here */}
           <section id="dashboard">
             <Dashboard />
+            <Profile />
           </section>
           <section id="charts">
             <Trends messages={merged.messages}/>

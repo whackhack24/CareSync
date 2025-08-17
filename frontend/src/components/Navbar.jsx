@@ -4,9 +4,9 @@ export default function Navbar() {
     <nav>
       <h1>CareSync</h1>
       <div class="right">
-        <span>Welcome, User</span>
+        <span>Welcome, Keily</span>
         <img
-          src="https://i.pravatar.cc/40"
+          src="https://wallpapers.com/images/hd/profile-picture-f67r1m9y562wdtin.jpg"
           alt="profile"
         />
       </div>

@@ -12,3 +12,7 @@
 section {
   margin-bottom: 40px;  /* spacing between sections */
 }
+
+#dashboard{
+  display: flex;
+}
