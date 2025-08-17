@@ -1,14 +1,13 @@
 import React, { useState } from "react";
-import { answerQuestionLLM } from "../lib/qaEngine";
-import april from "../data/april.json"; // 👈 abhi test ke liye ek month ka
+import { answerQuestion } from "../lib/qaEngine";
 
-export default function AssistantPanel() {
+export default function AssistantPanel({data}) {
   const [question, setQuestion] = useState("");
   const [answer, setAnswer] = useState("");
 
   async function handleAsk() {
     setAnswer("Thinking...");
-    const ans = await answerQuestionLLM(question, april); // 👈 abhi april test ke liye
+    const ans = await answerQuestion(question, data); // 👈 abhi april test ke liye
     setAnswer(ans);
   }
 
