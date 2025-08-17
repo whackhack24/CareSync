@@ -5,9 +5,9 @@
     { "id": "msg3", "date": "2025-07-01 07:50", "sender": "Advik", "role": "fitness_expert", "text": "That’s a good sign 💪 Let’s increase plank holds by 10 seconds this week." },
     { "id": "msg4", "date": "2025-07-01 07:53", "sender": "Keily Summers", "role": "member", "text": "Got it, will try after work today." },
     { "id": "msg5", "date": "2025-07-01 08:00", "sender": "Carla", "role": "nutritionist", "text": "Keily, add coconut water mid-morning. Prepping for Dubai heat." },
-    { "id": "msg6", "date": "2025-07-01 08:03", "sender": "Keily Summers", "role": "member", "text": "Yes, I’ll get some on my way to work." },
+    { "id": "msg6", "date": "2025-07-01 08:03", "sender": "Keily Summers", "role": "member", "text": "Yes, I’ll get some on my way to work.exercise 12 min hydration 1.3 litres steps 3.4k" },
 
-    { "id": "msg7", "date": "2025-07-02 08:10", "sender": "Neel", "role": "analyst", "text": "Sleep avg last week: 7h 25m — stable." },
+    { "id": "msg7", "date": "2025-07-02 08:10", "sender": "Neel", "role": "analyst", "text": "Sleep avg last week: slept 7.4 hours — stable." },
     { "id": "msg8", "date": "2025-07-02 08:12", "sender": "Ruby", "role": "coach", "text": "Nice! Let’s aim for 7h 40m before your trip." },
     { "id": "msg9", "date": "2025-07-02 08:15", "sender": "Keily Summers", "role": "member", "text": "I’ll try. Less late-night scrolling!" },
 
@@ -21,7 +21,7 @@
     { "id": "msg16", "date": "2025-07-04 08:12", "sender": "Neel", "role": "analyst", "text": "Will prep pre/post test instruction sheet." },
 
     { "id": "msg17", "date": "2025-07-05 07:50", "sender": "Advik", "role": "fitness_expert", "text": "Today: 12 min jog + 3 min cool-down walk." },
-    { "id": "msg18", "date": "2025-07-05 07:53", "sender": "Keily Summers", "role": "member", "text": "Done! Sweaty but worth it." },
+    { "id": "msg18", "date": "2025-07-05 07:53", "sender": "Keily Summers", "role": "member", "text": "Done! Sweaty but worth it. 4k steps exercise 15 min" },
 
     { "id": "msg19", "date": "2025-07-07 06:30", "sender": "Rachel", "role": "travel_coordinator", "text": "Morning! Remember fasting for test today." },
     { "id": "msg20", "date": "2025-07-07 06:32", "sender": "Keily Summers", "role": "member", "text": "Yes, on the way to the clinic now." },
@@ -36,23 +36,23 @@
     { "id": "msg27", "date": "2025-07-09 12:05", "sender": "Carla", "role": "nutritionist", "text": "Vitamin D slightly low — let’s add weekly supplement." },
 
     { "id": "msg28", "date": "2025-07-10 07:40", "sender": "Advik", "role": "fitness_expert", "text": "Today: core & back session — 3 sets bridges, 2 sets side planks." },
-    { "id": "msg29", "date": "2025-07-10 07:45", "sender": "Keily Summers", "role": "member", "text": "Done! Side planks still tough but improving." },
+    { "id": "msg29", "date": "2025-07-10 07:45", "sender": "Keily Summers", "role": "member", "text": "Done! Side planks still tough but improving. exercise 20 min" },
 
     { "id": "msg30", "date": "2025-07-12 08:00", "sender": "Rachel", "role": "travel_coordinator", "text": "Dubai packing list sent to your email." },
     { "id": "msg31", "date": "2025-07-12 08:02", "sender": "Keily Summers", "role": "member", "text": "Got it, will start packing Sunday." },
 
-    { "id": "msg32", "date": "2025-07-15 08:05", "sender": "Ruby", "role": "coach", "text": "Hydration goal during trip: 3L/day." },
+    { "id": "msg32", "date": "2025-07-15 08:05", "sender": "Ruby", "role": "coach", "text": "Hydration goal during trip: hydration 3 litres /day." },
     { "id": "msg33", "date": "2025-07-15 08:08", "sender": "Keily Summers", "role": "member", "text": "Noted — will keep bottle handy." },
 
     { "id": "msg34", "date": "2025-07-16 05:50", "sender": "Rachel", "role": "travel_coordinator", "text": "Travel day! Cooling towel packed?" },
-    { "id": "msg35", "date": "2025-07-16 05:52", "sender": "Keily Summers", "role": "member", "text": "Yes, and electrolytes too." },
-    { "id": "msg36", "date": "2025-07-16 10:00", "sender": "Neel", "role": "analyst", "text": "Step goal adjusted to 5k for travel day." },
+    { "id": "msg35", "date": "2025-07-16 05:52", "sender": "Keily Summers", "role": "member", "text": "Yes, and electrolytes too.hydration 1 litres" },
+    { "id": "msg36", "date": "2025-07-16 10:00", "sender": "Neel", "role": "analyst", "text": "Step goal adjusted to 5k steps for travel day." },
 
     { "id": "msg37", "date": "2025-07-17 07:30", "sender": "Carla", "role": "nutritionist", "text": "Breakfast in Dubai: yogurt + dates + almonds." },
     { "id": "msg38", "date": "2025-07-17 07:33", "sender": "Keily Summers", "role": "member", "text": "Easy to find here, I’ll grab them now." },
 
     { "id": "msg39", "date": "2025-07-18 06:50", "sender": "Advik", "role": "fitness_expert", "text": "Light hotel room workout: 10 squats, 10 pushups, 15 bridges." },
-    { "id": "msg40", "date": "2025-07-18 06:53", "sender": "Keily Summers", "role": "member", "text": "Done, felt great before meetings." },
+    { "id": "msg40", "date": "2025-07-18 06:53", "sender": "Keily Summers", "role": "member", "text": "Done, felt great before meetings.exercise 30 min" },
 
     { "id": "msg41", "date": "2025-07-19 22:00", "sender": "Rachel", "role": "travel_coordinator", "text": "Back home! Unpack tomorrow and rest." },
     { "id": "msg42", "date": "2025-07-19 22:03", "sender": "Keily Summers", "role": "member", "text": "Yes, heading straight to bed." },
@@ -61,7 +61,7 @@
     { "id": "msg44", "date": "2025-07-20 08:22", "sender": "Ruby", "role": "coach", "text": "Solid travel performance 👏" },
 
     { "id": "msg45", "date": "2025-07-23 07:40", "sender": "Carla", "role": "nutritionist", "text": "Keily, add watermelon slices post-workout this week." },
-    { "id": "msg46", "date": "2025-07-23 07:42", "sender": "Keily Summers", "role": "member", "text": "Love that idea!" },
+    { "id": "msg46", "date": "2025-07-23 07:42", "sender": "Keily Summers", "role": "member", "text": "Love that idea!hydration 1.5 litres" },
 
     { "id": "msg47", "date": "2025-07-25 08:10", "sender": "Advik", "role": "fitness_expert", "text": "End-of-month goal: hold plank for 1 min." },
     { "id": "msg48", "date": "2025-07-25 08:12", "sender": "Keily Summers", "role": "member", "text": "Challenge accepted!" },

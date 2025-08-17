@@ -4,7 +4,9 @@ import Dashboard from "./pages/Dashboard";
 import Chatpage from "./pages/ChatPage";
 import "./App.css"
 import Trends from "./pages/Trends";
+import { loadAllData } from "./lib/loadData";   // 👈 import
 export default function App() {
+   const merged = loadAllData();  // ✅ ab messages properly aa jayenge
   return (
     <div class="wrapper">
       <Navbar />
@@ -16,7 +18,7 @@ export default function App() {
             <Dashboard />
           </section>
           <section id="charts">
-            <Trends />
+            <Trends messages={merged.messages}/>
           </section>
           <section id="chat">
             <Chatpage />

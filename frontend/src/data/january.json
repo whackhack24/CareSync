@@ -5,7 +5,7 @@
       "date": "2025-01-02 08:10",
       "sender": "Keily Summers",
       "role": "member",
-      "text": "Morning Ruby \ud83c\udf24\ufe0f Sneezed a few times after waking up. Sleep score was 64."
+      "text": "Morning Ruby \ud83c\udf24\ufe0f Sneezed a few times after waking up. Slept 7 hours."
     },
     {
       "id": "msg2",
@@ -68,7 +68,7 @@
       "date": "2025-01-04 07:55",
       "sender": "Advik",
       "role": "fitness_expert",
-      "text": "Let\u2019s start with 10-min core stretches daily \ud83e\uddd8\u200d\u2640\ufe0f."
+      "text": "Let\u2019s start with exercise 10 min core stretches daily \ud83e\uddd8\u200d\u2640\ufe0f."
     },
     {
       "id": "msg11",
@@ -89,14 +89,14 @@
       "date": "2025-01-05 09:30",
       "sender": "Neel",
       "role": "analyst",
-      "text": "Your activity is up 10% from last week \ud83d\udc4f"
+      "text": "Your activity is up 6k steps from last week \ud83d\udc4f"
     },
     {
       "id": "msg14",
       "date": "2025-01-05 09:35",
       "sender": "Keily Summers",
       "role": "member",
-      "text": "I\u2019ve been walking more at work."
+      "text": "I\u2019ve been walking more at work. hydration 2 litres"
     },
     {
       "id": "msg15",
@@ -124,14 +124,14 @@
       "date": "2025-01-07 08:17",
       "sender": "Keily Summers",
       "role": "member",
-      "text": "Will do! Sounds refreshing."
+      "text": "Will do! Sounds refreshing.hydration 1.7 litres"
     },
     {
       "id": "msg19",
       "date": "2025-01-08 07:30",
       "sender": "Neel",
       "role": "analyst",
-      "text": "Step count 7k avg/day this week \ud83d\udc4d"
+      "text": "Step count 7k steps this week \ud83d\udc4d"
     },
     {
       "id": "msg20",
@@ -194,7 +194,7 @@
       "date": "2025-01-14 19:02",
       "sender": "Keily Summers",
       "role": "member",
-      "text": "Walked extra in the evening."
+      "text": "Walked extra in the evening.hydration 2.3 litres"
     },
     {
       "id": "msg29",
@@ -257,7 +257,7 @@
       "date": "2025-01-21 16:45",
       "sender": "Neel",
       "role": "analyst",
-      "text": "Step count up 20% since evening walks \ud83d\udcaa"
+      "text": "Step count up 9.6k steps since evening walks hydration 1.7 litres\ud83d\udcaa"
     },
     {
       "id": "msg38",
@@ -271,7 +271,7 @@
       "date": "2025-01-22 21:05",
       "sender": "Keily Summers",
       "role": "member",
-      "text": "Mild throat dryness tonight."
+      "text": "Mild throat dryness tonight.hydration 1 litres"
     },
     {
       "id": "msg40",
@@ -299,7 +299,7 @@
       "date": "2025-01-24 18:30",
       "sender": "Advik",
       "role": "fitness_expert",
-      "text": "Posture looking better during stretches."
+      "text": "Posture looking better during stretches.exercise 15 min"
     },
     {
       "id": "msg44",
@@ -313,7 +313,7 @@
       "date": "2025-01-26 09:00",
       "sender": "Neel",
       "role": "analyst",
-      "text": "Sleep score avg this week: 70."
+      "text": "Sleep score avg this week: slept 70."
     },
     {
       "id": "msg46",

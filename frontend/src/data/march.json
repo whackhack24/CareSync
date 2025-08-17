@@ -17,12 +17,12 @@
     { "id": "msg14", "date": "2025-03-02 08:02", "sender": "Carla", "role": "nutritionist", "text": "Yes, she’s getting enough calories for that." },
     { "id": "msg15", "date": "2025-03-02 20:00", "sender": "Ruby", "role": "coach", "text": "How’s your throat today?" },
     { "id": "msg16", "date": "2025-03-02 20:02", "sender": "Keily Summers", "role": "member", "text": "Fine! No dryness today." },
-    { "id": "msg17", "date": "2025-03-02 20:05", "sender": "Neel", "role": "analyst", "text": "Sleep avg past week: 7h 10m — consistent." },
+    { "id": "msg17", "date": "2025-03-02 20:05", "sender": "Neel", "role": "analyst", "text": "Sleep avg past week: slept 7.1 hours — consistent." },
     { "id": "msg18", "date": "2025-03-02 20:07", "sender": "Ruby", "role": "coach", "text": "Good, let's keep that steady." },
 
     { "id": "msg19", "date": "2025-03-03 07:50", "sender": "Carla", "role": "nutritionist", "text": "Try green tea with honey mid-morning." },
     { "id": "msg20", "date": "2025-03-03 07:52", "sender": "Keily Summers", "role": "member", "text": "That sounds soothing, will do." },
-    { "id": "msg21", "date": "2025-03-03 09:00", "sender": "Neel", "role": "analyst", "text": "Steps yesterday: 8.1k ✅" },
+    { "id": "msg21", "date": "2025-03-03 09:00", "sender": "Neel", "role": "analyst", "text": "Steps yesterday: 8.1k steps✅" },
     { "id": "msg22", "date": "2025-03-03 09:02", "sender": "Ruby", "role": "coach", "text": "Rachel, coordinate with Neel for travel step tracking." },
     { "id": "msg23", "date": "2025-03-03 09:04", "sender": "Rachel", "role": "travel_coordinator", "text": "Got it, I’ll share daily logs during trip days." },
     { "id": "msg24", "date": "2025-03-03 09:06", "sender": "Rachel", "role": "travel_coordinator", "text": "Neel, I’ll send you the raw step count each evening." },
@@ -37,7 +37,7 @@
     { "id": "msg32", "date": "2025-03-04 08:30", "sender": "Advik", "role": "fitness_expert", "text": "Got it, stretching + short walk only those days." },
 
     { "id": "msg33", "date": "2025-03-05 07:55", "sender": "Advik", "role": "fitness_expert", "text": "Jog today?" },
-    { "id": "msg34", "date": "2025-03-05 07:56", "sender": "Keily Summers", "role": "member", "text": "Yes, did 6 min without stopping 🏃‍♀️" },
+    { "id": "msg34", "date": "2025-03-05 07:56", "sender": "Keily Summers", "role": "member", "text": "Yes, did 6 min without stopping. 2k steps🏃‍♀️" },
     { "id": "msg35", "date": "2025-03-05 07:58", "sender": "Advik", "role": "fitness_expert", "text": "Nice! Aim for 7 min next time." },
     { "id": "msg36", "date": "2025-03-05 08:00", "sender": "Ruby", "role": "coach", "text": "Neel, update her progress chart with jog minutes too." },
     { "id": "msg37", "date": "2025-03-05 08:02", "sender": "Neel", "role": "analyst", "text": "Done, will reflect in next report." },
@@ -50,10 +50,10 @@
     { "id": "msg42", "date": "2025-03-06 20:15", "sender": "Rachel", "role": "travel_coordinator", "text": "Keily, travel kit items will arrive tomorrow." },
     { "id": "msg43", "date": "2025-03-06 20:18", "sender": "Keily Summers", "role": "member", "text": "Great, I’ll check everything once it’s here." },
     { "id": "msg44", "date": "2025-03-07 07:40", "sender": "Advik", "role": "fitness_expert", "text": "Today’s jog aim: 7 min continuous pace." },
-    { "id": "msg45", "date": "2025-03-07 07:45", "sender": "Keily Summers", "role": "member", "text": "Did 7.5 min! Feeling good." },
+    { "id": "msg45", "date": "2025-03-07 07:45", "sender": "Keily Summers", "role": "member", "text": "Did 7.5 min! Feeling good.3.5k steps" },
     { "id": "msg46", "date": "2025-03-07 07:47", "sender": "Ruby", "role": "coach", "text": "Excellent progress, this will be a highlight in review." },
     { "id": "msg47", "date": "2025-03-07 09:00", "sender": "Neel", "role": "analyst", "text": "Weekly summary ready — fewer sneezes, more steps." },
-    { "id": "msg48", "date": "2025-03-07 09:02", "sender": "Carla", "role": "nutritionist", "text": "Adding a hydration reminder every 2 hrs during trip." },
+    { "id": "msg48", "date": "2025-03-07 09:02", "sender": "Carla", "role": "nutritionist", "text": "Adding a hydration reminder every 2 hrs during trip.hydration 1.5 litres" },
     { "id": "msg49", "date": "2025-03-07 09:04", "sender": "Rachel", "role": "travel_coordinator", "text": "Will set up alerts in her phone." },
 
     { "id": "msg50", "date": "2025-03-08 08:00", "sender": "Carla", "role": "nutritionist", "text": "Breakfast tip today: oats with berries + flaxseeds." },
@@ -68,7 +68,7 @@
     { "id": "msg58", "date": "2025-03-09 07:57", "sender": "Rachel", "role": "travel_coordinator", "text": "Sure, I’ll keep pedometer on during transit." },
 
     { "id": "msg59", "date": "2025-03-10 06:30", "sender": "Rachel", "role": "travel_coordinator", "text": "Travel day! Dust mask packed and ready." },
-    { "id": "msg60", "date": "2025-03-10 06:32", "sender": "Keily Summers", "role": "member", "text": "Thanks, boarding in 30 mins." },
+    { "id": "msg60", "date": "2025-03-10 06:32", "sender": "Keily Summers", "role": "member", "text": "Thanks, boarding in 30 mins. hydration 1.5 litres"},
     { "id": "msg61", "date": "2025-03-10 08:00", "sender": "Rachel", "role": "travel_coordinator", "text": "Neel, flight departed on time." },
     { "id": "msg62", "date": "2025-03-10 08:02", "sender": "Neel", "role": "analyst", "text": "Logged, will adjust step goal for travel hours." },
     { "id": "msg63", "date": "2025-03-10 18:00", "sender": "Keily Summers", "role": "member", "text": "Hotel room a bit dry, using humidifier." },
@@ -76,7 +76,7 @@
 
     { "id": "msg65", "date": "2025-03-11 07:20", "sender": "Advik", "role": "fitness_expert", "text": "Do 5 min stretching before heading to meeting." },
     { "id": "msg66", "date": "2025-03-11 07:25", "sender": "Keily Summers", "role": "member", "text": "Done, breathing feels clear." },
-    { "id": "msg67", "date": "2025-03-11 09:00", "sender": "Rachel", "role": "travel_coordinator", "text": "Neel, step count till now is 3.5k." },
+    { "id": "msg67", "date": "2025-03-11 09:00", "sender": "Rachel", "role": "travel_coordinator", "text": "Neel, step count till now is 3.5k steps.exercise 20 min" },
     { "id": "msg68", "date": "2025-03-11 09:02", "sender": "Neel", "role": "analyst", "text": "On track, aim 6k by evening." },
 
     { "id": "msg69", "date": "2025-03-12 06:50", "sender": "Rachel", "role": "travel_coordinator", "text": "Last day in Bangalore, flight at 4 PM." },
@@ -91,18 +91,18 @@
     { "id": "msg76", "date": "2025-03-14 09:05", "sender": "Keily Summers", "role": "member", "text": "Excited to see progress." },
     { "id": "msg77", "date": "2025-03-14 09:07", "sender": "Neel", "role": "analyst", "text": "Overall: 45% symptom reduction since Jan." },
     { "id": "msg78", "date": "2025-03-14 09:09", "sender": "Carla", "role": "nutritionist", "text": "Diet adherence 92% — impressive." },
-    { "id": "msg79", "date": "2025-03-14 09:11", "sender": "Advik", "role": "fitness_expert", "text": "Exercise consistency at 88%." },
+    { "id": "msg79", "date": "2025-03-14 09:11", "sender": "Advik", "role": "fitness_expert", "text": "Exercise consistency at 88%.exercise 20 min" },
 
     { "id": "msg80", "date": "2025-03-15 08:00", "sender": "Ruby", "role": "coach", "text": "Weekend — light outdoor walk okay today." },
     { "id": "msg81", "date": "2025-03-15 08:05", "sender": "Keily Summers", "role": "member", "text": "Will go for 20 min in park." },
 
-    { "id": "msg82", "date": "2025-03-16 08:10", "sender": "Carla", "role": "nutritionist", "text": "Add soaked almonds to breakfast." },
+    { "id": "msg82", "date": "2025-03-16 08:10", "sender": "Carla", "role": "nutritionist", "text": "Add soaked almonds to breakfast. 150 kcal" },
     { "id": "msg83", "date": "2025-03-16 08:15", "sender": "Keily Summers", "role": "member", "text": "Done, easy to add." },
 
     { "id": "msg84", "date": "2025-03-17 07:55", "sender": "Neel", "role": "analyst", "text": "Humidity levels dropping again this week." },
     { "id": "msg85", "date": "2025-03-17 08:00", "sender": "Ruby", "role": "coach", "text": "Keily, keep humidifier on at night." },
 
-    { "id": "msg86", "date": "2025-03-18 08:30", "sender": "Advik", "role": "fitness_expert", "text": "Try adding 2 min sprint to jog today." },
+    { "id": "msg86", "date": "2025-03-18 08:30", "sender": "Advik", "role": "fitness_expert", "text": "Try adding 2 min sprint to jog today.exercise 15 min" },
     { "id": "msg87", "date": "2025-03-18 08:33", "sender": "Keily Summers", "role": "member", "text": "Tiring but fun." },
 
     { "id": "msg88", "date": "2025-03-19 08:00", "sender": "Rachel", "role": "travel_coordinator", "text": "Any travel plans in April to prep for?" },
@@ -115,7 +115,7 @@
     { "id": "msg93", "date": "2025-03-21 07:52", "sender": "Keily Summers", "role": "member", "text": "Forecast says medium risk today." },
 
     { "id": "msg94", "date": "2025-03-22 08:00", "sender": "Neel", "role": "analyst", "text": "Water intake avg: 1.9L/day — target 2.5L." },
-    { "id": "msg95", "date": "2025-03-22 08:02", "sender": "Ruby", "role": "coach", "text": "Keily, aim for 3L on workout days." },
+    { "id": "msg95", "date": "2025-03-22 08:02", "sender": "Ruby", "role": "coach", "text": "Keily, aim for 3L on workout days.hydration 2.5 litres" },
 
     { "id": "msg96", "date": "2025-03-23 07:40", "sender": "Carla", "role": "nutritionist", "text": "Increase leafy greens this week." },
     { "id": "msg97", "date": "2025-03-23 07:45", "sender": "Keily Summers", "role": "member", "text": "Got spinach and kale." },
@@ -126,13 +126,13 @@
     { "id": "msg100", "date": "2025-03-25 08:15", "sender": "Rachel", "role": "travel_coordinator", "text": "Reminder: check mask filters weekly." },
     { "id": "msg101", "date": "2025-03-25 08:17", "sender": "Keily Summers", "role": "member", "text": "Just replaced one yesterday." },
 
-    { "id": "msg102", "date": "2025-03-26 07:50", "sender": "Neel", "role": "analyst", "text": "Keily’s March avg steps: 7.4k/day." },
+    { "id": "msg102", "date": "2025-03-26 07:50", "sender": "Neel", "role": "analyst", "text": "Keily’s March avg steps: 7.4k steps.exercise 12 min" },
     { "id": "msg103", "date": "2025-03-26 07:53", "sender": "Ruby", "role": "coach", "text": "Excellent consistency." },
 
     { "id": "msg104", "date": "2025-03-27 08:10", "sender": "Carla", "role": "nutritionist", "text": "Swap evening coffee with chamomile tea." },
     { "id": "msg105", "date": "2025-03-27 08:13", "sender": "Keily Summers", "role": "member", "text": "Will try tonight." },
 
-    { "id": "msg106", "date": "2025-03-28 08:05", "sender": "Advik", "role": "fitness_expert", "text": "Weekend goal: 15 min jog without breaks." },
+    { "id": "msg106", "date": "2025-03-28 08:05", "sender": "Advik", "role": "fitness_expert", "text": "Weekend goal: 15 min jog without breaks.exercise 14 min" },
     { "id": "msg107", "date": "2025-03-28 08:08", "sender": "Keily Summers", "role": "member", "text": "Let’s do it!" },
 
     { "id": "msg108", "date": "2025-03-29 20:00", "sender": "Ruby", "role": "coach", "text": "Proud of your March discipline, Keily. April will be even better." }

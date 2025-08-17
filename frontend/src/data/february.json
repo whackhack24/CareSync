@@ -47,7 +47,7 @@
       "date": "2025-02-03 09:07",
       "sender": "Keily Summers",
       "role": "member",
-      "text": "Will do. Planning to carry reusable water bottle."
+      "text": "Will do. Planning to carry reusable water bottle.hydration 2 litresexercise 20 min"
     },
     {
       "id": "msg8",
@@ -110,7 +110,7 @@
       "date": "2025-02-10 09:00",
       "sender": "Neel",
       "role": "analyst",
-      "text": "Travel week avg steps: 8.2k/day \u2014 solid numbers."
+      "text": "Travel week avg steps: 8.2k steps \u2014 solid numbers."
     },
     {
       "id": "msg17",
@@ -152,7 +152,7 @@
       "date": "2025-02-14 06:30",
       "sender": "Advik",
       "role": "fitness_expert",
-      "text": "Upgrading strength plan with resistance bands."
+      "text": "Upgrading strength plan with resistance bands.exercise 20 min"
     },
     {
       "id": "msg23",
@@ -194,7 +194,7 @@
       "date": "2025-02-17 07:45",
       "sender": "Neel",
       "role": "analyst",
-      "text": "Sleep score avg this month so far: 73."
+      "text": "Sleep score avg this month so far: slept 8 hours."
     },
     {
       "id": "msg29",
@@ -278,7 +278,7 @@
       "date": "2025-02-23 07:40",
       "sender": "Keily Summers",
       "role": "member",
-      "text": "Energy levels stable all week."
+      "text": "Energy levels stable all week.exercise 20 min"
     },
     {
       "id": "msg41",
@@ -292,7 +292,7 @@
       "date": "2025-02-24 18:40",
       "sender": "Carla",
       "role": "nutritionist",
-      "text": "Drink at least 2L water during site visits."
+      "text": "Drink at least 2L water during site visits.hydration 2 litres"
     },
     {
       "id": "msg43",
@@ -306,7 +306,7 @@
       "date": "2025-02-25 08:30",
       "sender": "Neel",
       "role": "analyst",
-      "text": "Sleep score this week: 75 \ud83c\udfaf"
+      "text": "Sleep score this week: slept 8.2 hours \ud83c\udfaf"
     },
     {
       "id": "msg45",

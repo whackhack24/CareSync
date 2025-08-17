@@ -1,34 +1,34 @@
 {
   "messages": [
     { "id": "msg1", "date": "2025-05-01 07:45", "sender": "Ruby", "role": "coach", "text": "Morning Keily 🌞 May focus: stamina and evening relaxation." },
-    { "id": "msg2", "date": "2025-05-01 07:48", "sender": "Keily Summers", "role": "member", "text": "Got it. My back feels a bit stiff today though." },
+    { "id": "msg2", "date": "2025-05-01 07:48", "sender": "Keily Summers", "role": "member", "text": "Got it. My back feels a bit stiff today though.exercise 15 min" },
     { "id": "msg3", "date": "2025-05-01 07:50", "sender": "Advik", "role": "fitness_expert", "text": "Add 5 min of cat-cow stretch before breakfast." },
 
     { "id": "msg4", "date": "2025-05-02 08:15", "sender": "Carla", "role": "nutritionist", "text": "Local strawberries are in season — rich in antioxidants." },
     { "id": "msg5", "date": "2025-05-02 08:17", "sender": "Keily Summers", "role": "member", "text": "Yum, will pick some up after work." },
 
-    { "id": "msg6", "date": "2025-05-03 07:30", "sender": "Neel", "role": "analyst", "text": "April step average: 7.8k/day, up from March." },
+    { "id": "msg6", "date": "2025-05-03 07:30", "sender": "Neel", "role": "analyst", "text": "April step average: 7.8k steps, up from March." },
     { "id": "msg7", "date": "2025-05-03 07:32", "sender": "Keily Summers", "role": "member", "text": "Happy to see that! Let’s push for 8.5k this month." },
 
     { "id": "msg8", "date": "2025-05-04 08:00", "sender": "Advik", "role": "fitness_expert", "text": "Weekend goal: 2 min longer jogs than last week." },
-    { "id": "msg9", "date": "2025-05-04 08:05", "sender": "Keily Summers", "role": "member", "text": "Did it! Slightly sweaty but felt good." },
+    { "id": "msg9", "date": "2025-05-04 08:05", "sender": "Keily Summers", "role": "member", "text": "Did it! Slightly sweaty but felt good. exercise 17 min" },
 
     { "id": "msg10", "date": "2025-05-05 08:12", "sender": "Rachel", "role": "travel_coordinator", "text": "Confirming India work trip May 14–17." },
     { "id": "msg11", "date": "2025-05-05 08:14", "sender": "Keily Summers", "role": "member", "text": "Yes, dates confirmed. Dust kit ready?" },
     { "id": "msg12", "date": "2025-05-05 08:16", "sender": "Rachel", "role": "travel_coordinator", "text": "Mask filters, humidifier, and saline spray will be in your luggage." },
 
-    { "id": "msg13", "date": "2025-05-06 07:40", "sender": "Ruby", "role": "coach", "text": "Sleep score dipped to 78 last night — any reason?" },
+    { "id": "msg13", "date": "2025-05-06 07:40", "sender": "Ruby", "role": "coach", "text": "Sleep score dipped to slept 7 hours last night — any reason?" },
     { "id": "msg14", "date": "2025-05-06 07:42", "sender": "Keily Summers", "role": "member", "text": "Worked late on a client proposal, went to bed at midnight." },
 
     { "id": "msg15", "date": "2025-05-07 08:20", "sender": "Carla", "role": "nutritionist", "text": "Midweek tip: add chia seeds to morning yogurt for extra omega-3." },
     { "id": "msg16", "date": "2025-05-07 08:22", "sender": "Keily Summers", "role": "member", "text": "Done, easy to add." },
 
     { "id": "msg17", "date": "2025-05-08 07:55", "sender": "Advik", "role": "fitness_expert", "text": "Try adding incline walking to your cardio today." },
-    { "id": "msg18", "date": "2025-05-08 07:57", "sender": "Keily Summers", "role": "member", "text": "Did 10 mins — felt my calves working." },
+    { "id": "msg18", "date": "2025-05-08 07:57", "sender": "Keily Summers", "role": "member", "text": "Did exercise 10 min — felt my calves working." },
 
     { "id": "msg19", "date": "2025-05-10 08:05", "sender": "Rachel", "role": "travel_coordinator", "text": "Flight to Delhi on the 14th is at 7:30 AM." },
     { "id": "msg20", "date": "2025-05-10 08:08", "sender": "Ruby", "role": "coach", "text": "Keily, hydrate well during this trip — May heat can dehydrate fast." },
-    { "id": "msg21", "date": "2025-05-10 08:10", "sender": "Keily Summers", "role": "member", "text": "Got it, will carry extra electrolyte packets." },
+    { "id": "msg21", "date": "2025-05-10 08:10", "sender": "Keily Summers", "role": "member", "text": "Got it, will carry extra electrolyte packets.hydration 1.6 litres" },
 
     { "id": "msg22", "date": "2025-05-12 08:00", "sender": "Neel", "role": "analyst", "text": "Current weekly steps: 8.4k avg — almost at target." },
     { "id": "msg23", "date": "2025-05-12 08:02", "sender": "Keily Summers", "role": "member", "text": "Nice! I think Delhi trip will push it higher." },
@@ -39,19 +39,19 @@
     { "id": "msg27", "date": "2025-05-14 12:12", "sender": "Carla", "role": "nutritionist", "text": "Also have a warm herbal tea to soothe throat." },
 
     { "id": "msg28", "date": "2025-05-15 07:50", "sender": "Advik", "role": "fitness_expert", "text": "Short mobility session before heading out." },
-    { "id": "msg29", "date": "2025-05-15 07:52", "sender": "Keily Summers", "role": "member", "text": "Done — my back feels more relaxed." },
+    { "id": "msg29", "date": "2025-05-15 07:52", "sender": "Keily Summers", "role": "member", "text": "Done — my back feels more relaxed.exercise 11 min" },
 
     { "id": "msg30", "date": "2025-05-17 22:00", "sender": "Rachel", "role": "travel_coordinator", "text": "Back home safe from Delhi trip." },
     { "id": "msg31", "date": "2025-05-17 22:02", "sender": "Keily Summers", "role": "member", "text": "Yes! And no allergy flare-ups this time." },
 
-    { "id": "msg32", "date": "2025-05-18 09:00", "sender": "Neel", "role": "analyst", "text": "Delhi trip step avg: 9.6k/day, hydration 2.9L/day." },
+    { "id": "msg32", "date": "2025-05-18 09:00", "sender": "Neel", "role": "analyst", "text": "Delhi trip step avg: 9.6k/day, hydration 2.9 litres." },
     { "id": "msg33", "date": "2025-05-18 09:03", "sender": "Ruby", "role": "coach", "text": "Great numbers — keep the hydration up." },
 
     { "id": "msg34", "date": "2025-05-20 08:10", "sender": "Carla", "role": "nutritionist", "text": "Start papaya smoothie twice a week for digestion." },
-    { "id": "msg35", "date": "2025-05-20 08:12", "sender": "Keily Summers", "role": "member", "text": "Will blend one today after workout." },
+    { "id": "msg35", "date": "2025-05-20 08:12", "sender": "Keily Summers", "role": "member", "text": "Will blend one today after workout. exercise 16 min hydration 1 litres" },
 
     { "id": "msg36", "date": "2025-05-22 07:55", "sender": "Advik", "role": "fitness_expert", "text": "Try plank holds — aim for 40 sec." },
-    { "id": "msg37", "date": "2025-05-22 07:57", "sender": "Keily Summers", "role": "member", "text": "Managed 38 sec, almost there!" },
+    { "id": "msg37", "date": "2025-05-22 07:57", "sender": "Keily Summers", "role": "member", "text": "Managed 38 sec, almost there! exercise 2 min" },
 
     { "id": "msg38", "date": "2025-05-25 08:00", "sender": "Ruby", "role": "coach", "text": "Sleep scores this week are all above 85 — great recovery." },
     { "id": "msg39", "date": "2025-05-25 08:02", "sender": "Keily Summers", "role": "member", "text": "Feeling more rested than last month." },
